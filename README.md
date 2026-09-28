@@ -11,9 +11,9 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
-**✨ The Ultimate Automated Gmail Account Creation Tool ✨**
 
-*Advanced Anti-Detection System • Phone Verification Bypass • 5sim Integration • Beautiful Modern Interface*
+
+
 
 [Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Support](#-contact--support)
 
